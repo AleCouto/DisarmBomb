@@ -1,0 +1,15 @@
+/Users/acouto/Projects/DisarmBomb/DisarmBomb/obj/Debug/net5.0/DisarmBomb.csproj.AssemblyReference.cache
+/Users/acouto/Projects/DisarmBomb/DisarmBomb/obj/Debug/net5.0/DisarmBomb.GeneratedMSBuildEditorConfig.editorconfig
+/Users/acouto/Projects/DisarmBomb/DisarmBomb/obj/Debug/net5.0/DisarmBomb.AssemblyInfoInputs.cache
+/Users/acouto/Projects/DisarmBomb/DisarmBomb/obj/Debug/net5.0/DisarmBomb.AssemblyInfo.cs
+/Users/acouto/Projects/DisarmBomb/DisarmBomb/obj/Debug/net5.0/DisarmBomb.csproj.CoreCompileInputs.cache
+/Users/acouto/Projects/DisarmBomb/DisarmBomb/bin/Debug/net5.0/DisarmBomb.deps.json
+/Users/acouto/Projects/DisarmBomb/DisarmBomb/bin/Debug/net5.0/DisarmBomb.runtimeconfig.json
+/Users/acouto/Projects/DisarmBomb/DisarmBomb/bin/Debug/net5.0/DisarmBomb.runtimeconfig.dev.json
+/Users/acouto/Projects/DisarmBomb/DisarmBomb/bin/Debug/net5.0/DisarmBomb.dll
+/Users/acouto/Projects/DisarmBomb/DisarmBomb/bin/Debug/net5.0/ref/DisarmBomb.dll
+/Users/acouto/Projects/DisarmBomb/DisarmBomb/bin/Debug/net5.0/DisarmBomb.pdb
+/Users/acouto/Projects/DisarmBomb/DisarmBomb/obj/Debug/net5.0/DisarmBomb.dll
+/Users/acouto/Projects/DisarmBomb/DisarmBomb/obj/Debug/net5.0/ref/DisarmBomb.dll
+/Users/acouto/Projects/DisarmBomb/DisarmBomb/obj/Debug/net5.0/DisarmBomb.pdb
+/Users/acouto/Projects/DisarmBomb/DisarmBomb/obj/Debug/net5.0/DisarmBomb.genruntimeconfig.cache
